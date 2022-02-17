@@ -1,0 +1,18 @@
+
+
+Let number = 5
+
+Let square = (number) => {
+number * number
+}
+
+
+
+
+
+Variable assign number 
+Definine function 
+Make the operation 
+Give the result
+
+ 
