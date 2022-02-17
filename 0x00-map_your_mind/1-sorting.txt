@@ -1,0 +1,18 @@
+Declare a list of number
+Declare an integer variable called n
+Define the beginning of the count n=0
+
+For loop Read each variable 
+   Compare each each value from value of n
+   Choose the variable that correspond to n
+   Add 1 to n each time at the end of the loop
+     For loop Read each variable 
+     Declare an integer variable called j
+     Define the beginning of the count n=0
+     Compare the value of n and the value of j
+     If n < j 
+     n take the value of j 	
+
+Show the result in the console
+
+
